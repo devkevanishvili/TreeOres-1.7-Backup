@@ -1,0 +1,16 @@
+[
+{
+  "modid": "treeores",
+  "name": "TreeOres Mod",
+  "description": "Mod for those who are lazy to mine.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lessoner/BrsGamer/RedkillerKing"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
